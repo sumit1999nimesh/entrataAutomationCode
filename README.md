@@ -1,1 +1,2 @@
 # entrataAutomationCode
+#how to run 
