@@ -1,5 +1,5 @@
 # entrataAutomationCode
-#how to run 
+# how to run 
 1. run by TestCaseHolder class using testng
 2. run by testng.xml using testng
 3. run using mvn command verify
