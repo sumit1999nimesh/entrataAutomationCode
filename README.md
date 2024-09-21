@@ -7,8 +7,8 @@
 # we have four testcases uses data provider
 1. verify login for Property Manager
 2. verify request demo form submission
-3. verify individual product page on the basis of user input
-4. verify individual solution page on the basis of user input
+3. verify navigation individual product page on the basis of user input
+4. verify navigation individual solution page on the basis of user input
 
 # IMP
 code handle all https://www.entrata.com/b, https://www.entrata.com/c and https://www.entrata.com
